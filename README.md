@@ -16,4 +16,4 @@ Litet projekt för att öva på **Git branching, rebasing, och merging.**
 
 ## Länk
 
-[GitHub Repository](https://github.com/isabellea-f/Git-Practice)
+[Se projektet på GitHub](https://github.com/isabellea-f/Git-Practice)
