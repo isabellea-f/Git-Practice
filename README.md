@@ -8,6 +8,7 @@ Litet projekt för att öva på **Git branching, rebasing, och merging.**
 - Revertera commits med `git revert`
 - Återställ enstaka filer (`git checkout <commit> -- <file>`)
 - Använd `git diff` och `git status` för att se ändringar
+- Använda `interactive rebase` och `cherry-pick` för att redigera och flytta commits.
 
 ## Notes
 
